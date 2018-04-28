@@ -45,7 +45,7 @@
 <distributionManagement>
          <repository> 
             <id>snapshots</id>
-            <url>http://192.168.33.10:8081/artifactory/libs-release-local</url>
+            <url>http://192.168.33.10:8081/artifactory/libs-snapshot-local</url>
         </repository>
               
         <snapshotRepository>
