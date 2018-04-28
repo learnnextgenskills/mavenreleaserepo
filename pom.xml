@@ -35,9 +35,13 @@
             </plugin>
         </plugins>
 </build>
+
 <scm>
-        <developerConnection>scm:git:[fetch=]</developerConnection>
-    </scm>
+    <connection>scm:git:git@github.com/learnnextgenskills/mavenreleaserepo.git</connection>
+    <developerConnection>scm:git:git@github.com/learnnextgenskills/mavenreleaserepo.git</developerConnection>
+    <url>http://github.com/learnnextgenskills/mavenreleaserepo.git</url>
+</scm>
+
 <distributionManagement>
         <repository>
             <id>cdntral</id>
