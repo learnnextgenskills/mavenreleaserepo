@@ -44,7 +44,7 @@
 
 <distributionManagement>
         <repository>
-            <id>cdntral</id>
+            <id>central</id>
             <url>http://artifactory.4synergy.nl/artifactory/libs-release-local</url>
         </repository>
         <snapshotRepository>
