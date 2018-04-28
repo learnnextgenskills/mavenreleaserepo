@@ -3,7 +3,7 @@
   <groupId>com.leadapp</groupId>
   <artifactId>demo-mvn</artifactId>
   <packaging>jar</packaging>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
   <name>demo-mvn</name>
   <url>http://maven.apache.org</url>
   <dependencies>
