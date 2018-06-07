@@ -36,8 +36,8 @@
 </build>
 
 <scm>
-    <connection>scm:git:git@github.com:learnnextgenskills/mavenreleaserepo.git</connection>
-    <developerConnection>scm:git:git@github.com:learnnextgenskills/mavenreleaserepo.git</developerConnection>
+    <connection>scm:git:git@github.com/learnnextgenskills/mavenreleaserepo.git</connection>
+    <developerConnection>scm:git:https://github.com/learnnextgenskills/mavenreleaserepo.git</developerConnection>
     <url>https://github.com/learnnextgenskills/mavenreleaserepo.git</url>
   
   </scm>
