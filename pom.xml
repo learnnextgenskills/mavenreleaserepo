@@ -39,7 +39,7 @@
     <connection>scm:git:git@github.com:learnnextgenskills/mavenreleaserepo.git</connection>
     <developerConnection>scm:git:git@github.com:learnnextgenskills/mavenreleaserepo.git</developerConnection>
     <url>https://github.com/learnnextgenskills/mavenreleaserepo.git</url>
-  <tag>demo-mvn-2.0</tag>
+  
   </scm>
 
 <distributionManagement>
