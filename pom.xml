@@ -3,7 +3,7 @@
   <groupId>com.leadapp</groupId>
   <artifactId>demo-mvn</artifactId>
   <packaging>jar</packaging>
-  <version>2.6-SNAPSHOT</version>
+  <version>2.6</version>
   <name>demo-mvn</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -40,7 +40,7 @@
     <developerConnection>scm:git:https://github.com/learnnextgenskills/mavenreleaserepo.git</developerConnection>
     <url>https://github.com/learnnextgenskills/mavenreleaserepo</url>
   
-    <tag>demo-mvn-2.3</tag>
+    <tag>demo-mvn-2.6</tag>
   </scm>
 
 <distributionManagement>
